@@ -9,6 +9,7 @@ import value from './image/graph.png'
 import map from './image/worldmap.png'
 
 function Project() {
+    console.log("first");
     return (
         <div>
             {/* Header */}
